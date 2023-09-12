@@ -1,0 +1,42 @@
+[
+    {
+        "type": "X",
+        "color":[
+        {"id":"Black","image":"pt/x/xblack.png","cursor":"cursor-xb"},
+        {"id":"Red","image":"pt/x/xred.png","cursor":"cursor-xr"},
+        {"id":"Green","image":"pt/x/xgreen.png","cursor":"cursor-xg"},
+        {"id":"Blue","image":"pt/x/xblue.png","cursor":"cursor-xbu"},
+        {"id":"Yellow","image":"pt/x/xyellow.png","cursor":"cursor-xy"} 
+        ]
+    }, {
+        "type": "O",
+        "color":[
+        {"id":"Black","image":"pt/o/oblack.png","cursor":"cursor-ob"},
+        {"id":"Red","image":"pt/o/ored.png","cursor":"cursor-or"},
+        {"id":"Green","image":"pt/o/ogreen.png","cursor":"cursor-og"},
+        {"id":"Blue","image":"pt/o/oblue.png","cursor":"cursor-obu"},
+        {"id":"Yellow","image":"pt/o/oyellow.png","cursor":"cursor-oy"} 
+        ]
+    },
+    {
+        "type": "P",
+        "color":[
+        {"id":"Black","image":"pt/p/pblack.png","cursor":"cursor-pb"},
+        {"id":"Red","image":"pt/p/pred.png","cursor":"cursor-pr"},
+        {"id":"Green","image":"pt/p/pgreen.png","cursor":"cursor-pg"},
+        {"id":"Blue","image":"pt/p/pblue.png","cursor":"cursor-pbu"},
+        {"id":"Yellow","image":"pt/p/pyellow.png","cursor":"cursor-py"} 
+        ]
+    },
+    {
+        "type": "T",
+        "color":[
+        {"id":"Black","image":"pt/t/Tblack.png","cursor":"cursor-tb"},
+        {"id":"Red","image":"pt/t/Tred.png","cursor":"cursor-tr"},
+        {"id":"Green","image":"pt/t/Tgreen.png","cursor":"cursor-tg"},
+        {"id":"Blue","image":"pt/t/Tblue.png","cursor":"cursor-tbu"},
+        {"id":"Yellow","image":"pt/t/Tyellow.png","cursor":"cursor-ty"} 
+        ]
+    }
+
+]
