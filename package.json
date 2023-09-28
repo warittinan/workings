@@ -1,0 +1,31 @@
+{
+  "name": "integrated-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/ssa1/",
+    "preview": "vite preview",
+    "cypress:open": "cypress open",
+    "tle": "vite --port 80"
+  },
+  "dependencies": {
+    "@vueup/vue-quill": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "daisyui": "^2.51.6",
+    "flowbite": "^1.6.5",
+    "moment-timezone": "^0.5.43",
+    "pinia": "^2.0.35",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "autoprefixer": "^10.4.14",
+    "cypress": "^13.2.0",
+    "postcss": "^8.4.22",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.1.4"
+  }
+}
